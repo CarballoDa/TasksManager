@@ -11,7 +11,7 @@
 
 <div class="header">
 	<h1>Tasks Manager 0.1</h1>
-	<p>Easy Life Productions</p>
+	<p>Easy Life Productions :)</p>
 </div>    
 <div class="nav">
     <ul>
