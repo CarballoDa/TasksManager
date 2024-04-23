@@ -12,7 +12,6 @@
 <div class="header">
 	<h1>Tasks Manager 0.1</h1>
 	<p>Easy Life Productions :)</p>
-	<p>Probando estados de archivo</p>
 </div>    
 <div class="nav">
     <ul>
